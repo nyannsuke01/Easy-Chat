@@ -1,0 +1,6 @@
+framework module Pods_EasyChatTests {
+  umbrella header "Pods-EasyChatTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
